@@ -1,2 +1,2 @@
-# Cours-Fynup-academy
+# Cours-FynUp-Academy
 Cours d'apprentissage comptabilité suisse
